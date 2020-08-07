@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="SelectCarDialog_title">Select Your Car</string>
+    <string name="about">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و بر قرار گیرد.</string>
+    <string name="insert_mail">تلفن همراه یا ایمیل</string>
+    <string name="insert_password">رمز عبور</string>
+    <string name="register">ثبت نام نکرده ام!</string>
+    <string name="registered_before">ثبت نام کرده ام!</string>
+    <string name="insert_code">کد پیامک شده برای تلفن همراه خود را وارد نمایید</string>
+    <string name="error_name">نام و نام خانوادگی را وارد نمایید.</string>
+    <string name="hint_name">نام و نام خانوادگی</string>
+    <string name="error_mobile">شماره همراه را به درستی وارد نمایید.</string>
+    <string name="hint_mobile">تلفن همراه</string>
+    <string name="error_email">ایمیل را به درستی وارد نمایید.</string>
+    <string name="hint_email">ایمیل</string>
+    <string name="hint_repeat_password">تکرار رمز عبور</string>
+    <string name="error_repeat_password">تکرار رمز عبور را به درستی وارد نمایید.</string>
+    <string name="error_password">رمز عبور را به درستی وارد نمایید.</string>
+    <string name="password_not_same">رمز عبور و تکرار آن برابر نیست.</string>
+    <string name="error_login">اطلاعات وارد شده صحیح نمی باشد.</string>
+    <string name="login">ورود</string>
+    <string name="register1">ثبت نام</string>
+    <string name="verify">تایید</string>
+    <string name="public_error">متاسفانه خطایی رخ داد</string>
+    <string name="register_error">ایمیل یا تلفن همراه وارد شده قبلا در سیستم ثبت شده است.</string>
+    <string name="contact_successfully">پیام شما با موفقیت ارسال شد.</string>
+    <string name="extend_successfully">اشتراک شما با موفقیت تمدید کردید.</string>
+    <string name="cash_out">کاربر گرامی لطفا توجه داشته باشید تسویه حساب صرفا توسط کد شارژ بت فوروارد قابل انجام خواهد بود. پس از ثبت درخواست حداکثر طی 3 ساعت کد شارژ بت فوروارد برای شما ارسال خواهد شد.</string>
+    <string name="increase_credit_successfully">درخواست افزایش موجودی با موفقیت ثبت شد.</string>
+    <string name="increase_credit">کاربران گرامی، شما می توانید با مراجعه به وب سایت بت فوروارد شارژ و تهیه کد شارژ بت فوروارد و وارد کردن آن در باکس زیر نسبت به افزایش موجودی خود اقدام نمایید. پس از ثبت کد شارژ حداکثر ظرف مدت 1 ساعت کد وارد شده بررسی و موجودی شما افزایش خواهد یافت.
+    </string>
+    <string name="send">ارسال</string>
+</resources>
